@@ -755,7 +755,6 @@ require('lazy').setup({
         },
         -- Fast linting + import sorting; formatting is left to conform/black.
         ruff = {},
-        nil_ls = {}, -- Nix
         -- rust_analyzer = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
         --
